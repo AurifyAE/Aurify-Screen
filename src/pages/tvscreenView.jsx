@@ -230,7 +230,7 @@ function TvScreen() {
         <img
           src={"/images/lines.svg"}
           alt=""
-          className="object-contain w-full h-full"
+          className="object-contain  h-full"
         />
       </Box>
       <Box
@@ -250,7 +250,7 @@ function TvScreen() {
         <img
           src={"/images/lines.svg"}
           alt=""
-          className="object-contain w-full h-full"
+          className="object-contain   h-full"
         />
       </Box>
 
